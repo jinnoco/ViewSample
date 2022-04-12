@@ -17,4 +17,17 @@
         <item>キーマカレー</item>
         <item>グリーンカレー</item>
     </string-array>
+
+    <string-array name="lv_cocktaillist">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>j</item>
+    </string-array>
 </resources>
